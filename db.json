@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@gmail.com",
+      "empresa": "Juan Pablo & Asociados"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@gmail.com",
+      "empresa": "Juan Pablo & Asociados"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@gmail.com",
+      "empresa": "Juan Pablo & Asociados"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@gmail.com",
+      "empresa": "Juan Pablo & Asociados"
+    },
+    {
+      "nombre": "Juan Pablo Morgade (Actualizado)",
+      "empresa": "Codigo Pex",
+      "email": "juanpi.morgade@hotmail.com.ar",
+      "telefono": "213123",
+      "notas": "g",
+      "id": 6
+    }
+  ]
+}
